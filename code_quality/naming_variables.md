@@ -30,3 +30,9 @@ sorted(students)  # no side effect (the original list is not affected); ideally,
 ```
 
 This is also related to the command-query separation principle. Commands (produce side effects) should be named as verbs and Queries (return something) should be named as nouns. The command-query separation principle states that if a routine have side effects (command), it shouldn't return a value; and if a routine returns something (query), it shouldn't have side effects.
+
+## Pick one word per concept ##
+
+Pick one word for one abstract concept and stick with it. For instance, it's confusing to have `fetch`, `retrieve`, and `get` as equivalent methods of different classes.
+
+
