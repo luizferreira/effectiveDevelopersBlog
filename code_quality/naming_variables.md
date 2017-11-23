@@ -1,3 +1,5 @@
+# Meaningful Names in Code #
+
 Names are everywhere in our code and having the ability to name variables, functions, classes, and packages well is essential to write readable and maintainable code. Here are some tips to increase the readability of your code by creating meaningful names (mostly based on the book Clean Code by Robert Martin):
 
 ## Intention-Revealing Names ##
